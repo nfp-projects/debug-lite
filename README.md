@@ -1,5 +1,5 @@
-# debug-lite
-[![Build Status](https://travis-ci.org/nfp-projects/debug-lite.svg?branch=master)](https://travis-ci.org/nfp-projects/debug-lite)
+# debug-ms
+[![Build Status](https://travis-ci.org/nfp-projects/debug-ms.svg?branch=master)](https://travis-ci.org/nfp-projects/debug-ms)
 
 <img width="647" src="https://user-images.githubusercontent.com/71256/29091486-fa38524c-7c37-11e7-895f-e7ec8e1039b6.png">
 

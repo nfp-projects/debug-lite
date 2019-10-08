@@ -1,11 +1,11 @@
 {
-  "name": "debug-lite",
+  "name": "debug-ms",
   "version": "4.1.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nfp-projects/debug-lite.git"
+    "url": "git://github.com/nfp-projects/debug-ms.git"
   },
-  "description": "small debugging utility with no dependancy",
+  "description": "small debugging utility with no dependancy, drop-in replacement to debug",
   "keywords": [
     "debug",
     "log",
