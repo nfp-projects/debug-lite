@@ -45,6 +45,11 @@
     "expect.js": "0.3.1",
     "xo": "^0.23.0"
   },
+  "xo": {
+    "rules": {
+      "prefer-const": 0
+    }
+  },
   "main": "./src/index.js",
   "browser": "./src/browser.js"
 }
